@@ -1,0 +1,15 @@
+F:\VSProjects\Dungeon\bin\Debug\Dungeons\Dungeon4.txt
+F:\VSProjects\Dungeon\bin\Debug\Dungeons\Dungeon3.txt
+F:\VSProjects\Dungeon\bin\Debug\Dungeons\Dungeon2.txt
+F:\VSProjects\Dungeon\bin\Debug\Dungeons\Dungeon1.txt
+F:\VSProjects\Dungeon\bin\Debug\Dungeon.exe.config
+F:\VSProjects\Dungeon\bin\Debug\Dungeon.exe
+F:\VSProjects\Dungeon\bin\Debug\Dungeon.pdb
+F:\VSProjects\Dungeon\bin\Debug\nunit.framework.dll
+F:\VSProjects\Dungeon\obj\Debug\Dungeon.csproj.AssemblyReference.cache
+F:\VSProjects\Dungeon\obj\Debug\Dungeon.Properties.Resources.resources
+F:\VSProjects\Dungeon\obj\Debug\Dungeon.csproj.GenerateResource.cache
+F:\VSProjects\Dungeon\obj\Debug\Dungeon.csproj.CoreCompileInputs.cache
+F:\VSProjects\Dungeon\obj\Debug\Dungeon.csproj.CopyComplete
+F:\VSProjects\Dungeon\obj\Debug\Dungeon.exe
+F:\VSProjects\Dungeon\obj\Debug\Dungeon.pdb
